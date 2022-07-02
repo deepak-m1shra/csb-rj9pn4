@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://deepak-m1shra.github.io/csb-rj9pn4/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://deepak-m1shra.github.io/csb-rj9pn4/static/js/main.82eaf55a.chunk.js",
+    "main.js.map": "https://deepak-m1shra.github.io/csb-rj9pn4/static/js/main.82eaf55a.chunk.js.map",
+    "runtime-main.js": "https://deepak-m1shra.github.io/csb-rj9pn4/static/js/runtime-main.0a6ba0b6.js",
+    "runtime-main.js.map": "https://deepak-m1shra.github.io/csb-rj9pn4/static/js/runtime-main.0a6ba0b6.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://deepak-m1shra.github.io/csb-rj9pn4/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://deepak-m1shra.github.io/csb-rj9pn4/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://deepak-m1shra.github.io/csb-rj9pn4/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://deepak-m1shra.github.io/csb-rj9pn4/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://deepak-m1shra.github.io/csb-rj9pn4/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a6ba0b6.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.82eaf55a.chunk.js"
+  ]
+}
